@@ -1,0 +1,65 @@
+{
+    "apparel": [
+      {
+        "code": "APP001",
+        "sizes": [
+          {
+            "size": "S",
+            "quantity": 10,
+            "price": 19.99
+          },
+          {
+            "size": "M",
+            "quantity": 15,
+            "price": 24.99
+          },
+          {
+            "size": "L",
+            "quantity": 5,
+            "price": 29.99
+          }
+        ]
+      },
+      {
+        "code": "APP002",
+        "sizes": [
+          {
+            "size": "S",
+            "quantity": 8,
+            "price": 14.99
+          },
+          {
+            "size": "M",
+            "quantity": 12,
+            "price": 19.99
+          },
+          {
+            "size": "L",
+            "quantity": 6,
+            "price": 24.99
+          }
+        ]
+      },
+      {
+        "code": "APP003",
+        "sizes": [
+          {
+            "size": "S",
+            "quantity": 6,
+            "price": 29.99
+          },
+          {
+            "size": "M",
+            "quantity": 10,
+            "price": 34.99
+          },
+          {
+            "size": "L",
+            "quantity": 4,
+            "price": 39.99
+          }
+        ]
+      }
+    ]
+  }
+  
